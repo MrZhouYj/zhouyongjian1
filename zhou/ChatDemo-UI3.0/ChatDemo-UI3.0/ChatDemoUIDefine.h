@@ -10,6 +10,8 @@
   * from Hyphenate Inc.
   */
 
+//cnsdjksidcjnisdjcndjscdskjdsndkjnsdnvknsdflvbndlosbfnjklvsbdfnjkvhbdsfhvdsvdfhsvjkdhsfjkvbhsdfhjv
+
 #ifndef ChatDemo_UI2_0_ChatDemoUIDefine_h
 #define ChatDemo_UI2_0_ChatDemoUIDefine_h
 
